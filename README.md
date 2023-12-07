@@ -1,2 +1,2 @@
 # tts
-Simple text to speech convertor useful while doing writing work from computer screen, just run the program and past copied text there. If the word is long, it will convert only that word but if 3 consecutive words are less than 10- char they are converted together.
+A simple text to speech converter useful while doing writing work from a computer screen, just run the program and paste the copied text there. If a word is long, it will convert only that word into speech, but if three consecutive words are less than 10-characters  they are converted together.
